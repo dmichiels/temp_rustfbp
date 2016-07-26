@@ -1,4 +1,4 @@
-//! This module helps to create a Component
+//! This module helps to create a Component 
 //!
 //! It provides a macro `component` which take the high level view of the component, and create the code for the scheduler.
 //!
